@@ -14,7 +14,9 @@ Checkout Flow
 
 Tech Stack
 Playwright
-JavaScript
+Javascript 
+
+Framework includes modular structure with reusable page objects and scalable test design
 
 Author
 Amar Mishra
